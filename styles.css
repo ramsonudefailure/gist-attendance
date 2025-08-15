@@ -144,3 +144,17 @@ li a.active {
         padding: 6px;
     }
 }
+
+@media (max-width: 480px) {
+    .header .clg-logo img {
+        width: 35px;
+    }
+    .header .clg-logo {
+        margin-right: 6px;
+    }
+    .header .clg-text p
+    { 
+        font-size: 0.35rem; 
+    }
+
+}
