@@ -152,9 +152,9 @@ li a.active {
     .header .clg-logo {
         margin-right: 6px;
     }
-    .header .clg-text p
-    { 
-        font-size: 0.35rem; 
+    .header .clg-text h4, .header .clg-text p{
+        margin-top: 1px;
+        font-size: 0.35rem;
     }
 
 }
